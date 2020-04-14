@@ -1,0 +1,629 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.10.13)  13 APR 2020 20:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**examen2_solucion.tex
+(./examen2_solucion.tex
+LaTeX2e <2018-04-01> patch level 5
+(c:/texlive/2018/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2017/12/17 Version 2.603 by Philip Hirschhorn
+(c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count88
+\c@latest@ques=\count89
+\c@ques@end=\count90
+\c@last@object=\count91
+\c@incmp@ques=\count92
+\c@next@ques=\count93
+\c@next@page=\count94
+\c@tmp@hlfcntr=\count95
+\c@ifpos@cntr=\count96
+\c@question=\count97
+\c@partno=\count98
+\c@subpart=\count99
+\c@subsubpart=\count100
+\c@choice=\count101
+\c@numpoints=\count102
+\c@numbonuspoints=\count103
+\c@pointsof@thisquestion=\count104
+\c@bonuspointsof@thisquestion=\count105
+\c@numquestions=\count106
+\c@numparts=\count107
+\c@numsubparts=\count108
+\c@numsubsubparts=\count109
+\c@Curr@Page=\count110
+\c@@pagepoints=\count111
+\c@@pagebonuspoints=\count112
+\c@pageof@pagepoints=\count113
+\c@pageof@pagebonuspoints=\count114
+\c@latest@points=\count115
+\c@latest@bonuspoints=\count116
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count117
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\fillinlinelength=\skip60
+\linefillheight=\skip61
+\linefillthickness=\skip62
+\dottedlinefillheight=\skip63
+\gridsize=\skip64
+\gridlinewidth=\skip65
+\minboxheight=\skip66
+\c@@iterator=\count118
+\@cellwidth=\skip67
+\c@tbl@points=\count119
+\c@tbl@bonuspoints=\count120
+\c@pq@index=\count121
+\c@pq@index@pts=\count122
+\c@pq@index@bpts=\count123
+\c@num@cols=\count124
+\c@num@rows=\count125
+\c@current@row=\count126
+\c@cols@done=\count127
+\exam@box=\box26
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count128
+\exam@FrameRule=\dimen104
+\exam@FrameSep=\dimen105
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen106
+))
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count129
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count130
+\leftroot@=\count131
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count132
+\DOTSCASE@=\count133
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count134
+\c@MaxMatrixCols=\count135
+\dotsspace@=\muskip10
+\c@parentequation=\count136
+\dspbrk@lvl=\count137
+\tag@help=\toks20
+\row@=\count138
+\column@=\count139
+\maxfields@=\count140
+\andhelp@=\toks21
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks22
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(c:/texlive/2018/texmf-dist/tex/latex/braket/braket.sty)
+(c:/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip71
+\thm@postskip=\skip72
+\thm@headsep=\skip73
+\dth@everypar=\toks29
+)
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks30
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(c:/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
+\c@tracingmulticols=\count141
+\mult@box=\box29
+\multicol@leftmargin=\dimen117
+\c@unbalance=\count142
+\c@collectmore=\count143
+\doublecol@number=\count144
+\multicoltolerance=\count145
+\multicolpretolerance=\count146
+\full@width=\dimen118
+\page@free=\dimen119
+\premulticols=\dimen120
+\postmulticols=\dimen121
+\multicolsep=\skip74
+\multicolbaselineskip=\skip75
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen122
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count147
+\c@finalcolumnbadness=\count148
+\last@try=\dimen123
+\multicolovershoot=\dimen124
+\multicolundershoot=\dimen125
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count149
+)
+
+! LaTeX Error: Command \ket already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \newcommand{\ket}[1]{\left| #1 \right>}
+                                             % for Dirac bras
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \bra already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \newcommand{\bra}[1]{\left< #1 \right|}
+                                             % for Dirac kets
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \braket already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...2} \right|\left. #2 \vphantom{#1} \right>}
+                                                   % for Dirac brackets
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\c@prop=\count150
+\c@thm=\count151
+\c@dfn=\count152
+(c:/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count153
+\Gm@cntv=\count154
+\c@Gm@tempcnt=\count155
+\Gm@bindingoffset=\dimen126
+\Gm@wd@mp=\dimen127
+\Gm@odd@mp=\dimen128
+\Gm@even@mp=\dimen129
+\Gm@layoutwidth=\dimen130
+\Gm@layoutheight=\dimen131
+\Gm@layouthoffset=\dimen132
+\Gm@layoutvoffset=\dimen133
+\Gm@dimlist=\toks31
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen134
+\epsfysize=\dimen135
+)
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(c:/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count156
+\calc@Bcount=\count157
+\calc@Adimen=\dimen136
+\calc@Bdimen=\dimen137
+\calc@Askip=\skip76
+\calc@Bskip=\skip77
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count158
+\calc@Cskip=\skip78
+)
+(c:/texlive/2018/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen138
+\AM@pageheight=\dimen139
+
+(c:/texlive/2018/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box55
+\AM@global@opts=\toks32
+\AM@toc@title=\toks33
+\c@AM@survey=\count159
+\AM@templatesizebox=\box56
+)
+(c:/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen140
+\WF@size=\dimen141
+\c@WF@wrappedlines=\count160
+\WF@box=\box57
+\WF@everypar=\toks34
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count161
+\float@exts=\toks35
+\float@box=\box58
+\@float@everytoks=\toks36
+\@floatcapt=\box59
+)
+(c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/10/03 3.25 The Babel package
+
+(c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/10/03 3.25 Babel switching mechanism
+)
+(c:/texlive/2018/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/10/03 3.25 Babel common definitions
+\babel@savecnt=\count162
+\U@D=\dimen142
+
+(c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count163
+)
+\es@quottoks=\toks37
+\es@quotdepth=\count164
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+LaTeX Info: Redefining \. on input line 83.
+LaTeX Info: Redefining \% on input line 83.
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks38
+\inpenc@posthook=\toks39
+)
+(./examen2_solucion.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+\openout1 = `examen2_solucion.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count165
+\scratchdimen=\dimen143
+\scratchbox=\box60
+\nofMPsegments=\count166
+\nofMParguments=\count167
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count168
+\MPscratchDim=\dimen144
+\MPnumerator=\count169
+\makeMPintoPDFobject=\count170
+\everyMPtoPDFconversion=\toks41
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 398.3386pt, 99.58464pt)
+* v-part:(T,H,B)=(85.35826pt, 694.24716pt, 65.44142pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=694.24716pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-16.91173pt
+* \headheight=15.0pt
+* \headsep=15.0pt
+* \topskip=11.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box61
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 122.
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 122.
+
+(c:/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+[1
+
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+This exam contains 1 questions with 0 parts, 0 subparts, and 0 subsubparts.
+(./examen2_solucion.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+) ) 
+Here is how much of TeX's memory you used:
+ 6441 strings out of 492639
+ 87710 string characters out of 6133087
+ 195736 words of memory out of 5000000
+ 10217 multiletter control sequences out of 15000+600000
+ 8596 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,39p,283b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb>
+Output written on examen2_solucion.pdf (1 page, 65316 bytes).
+PDF statistics:
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
